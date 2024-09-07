@@ -66,3 +66,5 @@ make %{?_smp_mflags}
 %{_libdir}/mate-applets/mate-dock-applet
 %license COPYING
 %doc AUTHORS INSTALL ChangeLog NEWS README
+
+%changelog 
