@@ -6,7 +6,7 @@ Summary:	An application dock applet for the MATE panel
 Group:		Unspecified
 License:	GPLv3
 URL:		https://github.com/ubuntu-mate/mate-dock-applet
-Source0:	https://github.com/ubuntu-mate/mate-dock-applet/releases/tag//V%{version}.tar.gz
+Source0:	https://github.com/ubuntu-mate/mate-dock-applet/releases/tag/V%{version}.tar.gz
 
 BuildArch:	noarch
 BuildRequires:	python3
